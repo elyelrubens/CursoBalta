@@ -1,0 +1,16 @@
+C:\dev\CursoBalta\MeuApp\bin\Debug\net6.0\MeuApp.exe
+C:\dev\CursoBalta\MeuApp\bin\Debug\net6.0\MeuApp.deps.json
+C:\dev\CursoBalta\MeuApp\bin\Debug\net6.0\MeuApp.runtimeconfig.json
+C:\dev\CursoBalta\MeuApp\bin\Debug\net6.0\MeuApp.dll
+C:\dev\CursoBalta\MeuApp\bin\Debug\net6.0\ref\MeuApp.dll
+C:\dev\CursoBalta\MeuApp\bin\Debug\net6.0\MeuApp.pdb
+C:\dev\CursoBalta\MeuApp\obj\Debug\net6.0\MeuApp.GlobalUsings.g.cs
+C:\dev\CursoBalta\MeuApp\obj\Debug\net6.0\MeuApp.csproj.AssemblyReference.cache
+C:\dev\CursoBalta\MeuApp\obj\Debug\net6.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\CursoBalta\MeuApp\obj\Debug\net6.0\MeuApp.AssemblyInfoInputs.cache
+C:\dev\CursoBalta\MeuApp\obj\Debug\net6.0\MeuApp.AssemblyInfo.cs
+C:\dev\CursoBalta\MeuApp\obj\Debug\net6.0\MeuApp.csproj.CoreCompileInputs.cache
+C:\dev\CursoBalta\MeuApp\obj\Debug\net6.0\MeuApp.dll
+C:\dev\CursoBalta\MeuApp\obj\Debug\net6.0\ref\MeuApp.dll
+C:\dev\CursoBalta\MeuApp\obj\Debug\net6.0\MeuApp.pdb
+C:\dev\CursoBalta\MeuApp\obj\Debug\net6.0\MeuApp.genruntimeconfig.cache
